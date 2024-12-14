@@ -6,6 +6,12 @@ BPL-DREAM 11 is a React-based cricket team management application that allows us
 
 ---
 
+## Live Links
+
+**BPL-DREAM 11**: https://inspiring-tartufo-ddb990.netlify.app/
+
+---
+
 ## Table of Contents
 
 - [Features](#features)
@@ -97,13 +103,6 @@ The project structure follows a typical React app layout with separate folders f
 
 1. **User Authentication**: Add user login and authentication to personalize player selections.
 2. **Leaderboard**: Implement a leaderboard to track and display the highest-rated teams.
-
----
-
-## Live Links
-
-**Netlify**: https://inspiring-tartufo-ddb990.netlify.app/
-**Surge**: https://maksudulhaque2000.surge.sh/
 
 ---
 
